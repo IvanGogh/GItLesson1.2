@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">GItLesson1.2</string>
+    <string name="app_name">GitLesson1</string>
+    <string name="Button">Нажми меня</string>
+    <string name="Promo">Самое странное приложение. Введи текст и включи всё что включается, нажми на кнопку и что-то произойдет</string>
 </resources>
